@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 koteswara kundurti
+=======
+koteswara chari
+>>>>>>> bugfix
